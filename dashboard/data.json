@@ -1,0 +1,81 @@
+[
+  { "link": "/", "title": "DHCP", "img": "/ims/dhcp.png" },
+  {
+    "link": "http://gitlab.gogeo.local/users/sign_in",
+    "title": "gitlab",
+    "img": "/ims/gitlab.png"
+  },
+  { "link": "/", "title": "GitServer", "img": "/ims/gitserver.png" },
+  {
+    "link": "http://status.gogeo.local:3000/login",
+    "title": "Grafana",
+    "img": "/ims/grafana.png"
+  },
+  {
+    "link": "http://itboard.gogeo.local/?controller=AuthController&action=login",
+    "title": "Kanboard Server",
+    "img": "/ims/kanboard.png"
+  },
+  {
+    "link": "http://192.168.1.76/mediawiki/index.php/Main_Page",
+    "title": "MediaWiki",
+    "img": "/ims/mediawiki.png"
+  },
+  {
+    "link": "http://192.168.1.242",
+    "title": "Motioneye",
+    "img": "/ims/motioneye.png"
+  },
+  {
+    "link": "https://www.odoo.com/web/login",
+    "title": "Odoo",
+    "img": "/ims/odoo.png"
+  },
+  {
+    "link": "https://www.ovh.com/auth/",
+    "title": "OVH",
+    "img": "/ims/ovh2.jpeg"
+  },
+  {
+    "link": "http://cloud.gogeo.local:8080/login",
+    "title": "OwnCloud",
+    "img": "/ims/owncloud.png"
+  },
+  {
+    "link": "https://192.168.1.153/auth/login?rediret=%2F&locale=en-UK",
+    "title": "Passbolt",
+    "img": "/ims/passbolt.png"
+  },
+  {
+    "link": "http://192.168.1.107/admin/index.php?login",
+    "title": "PiHole",
+    "img": "/ims/pihole.png"
+  },
+  {
+    "link": "https://192.168.1.87:8080",
+    "title": "Print Server",
+    "img": "/ims/printserver.png"
+  },
+  {
+    "link": "https://192.168.1.89",
+    "title": "PrivateBin",
+    "img": "/ims/privatebin.png"
+  },
+  {
+    "link": "https://192.168.1.14:8006/",
+    "title": "Proxmox",
+    "img": "/ims/proxmox.png"
+  },
+  {
+    "link": "http://192.168.1.81:3000/home",
+    "title": "RocketChat",
+    "img": "/ims/rocketchat.png"
+  },
+  { "link": "/", "title": "Tails", "img": "/ims/tails.png" },
+  {
+    "link": "https://truenas.gogeo.local/ui/sessions/signin",
+    "title": "True NAS",
+    "img": "/ims/truenas.png"
+  },
+  { "link": "/", "title": "WebDAV", "img": "/ims/webdav.png" }
+]
